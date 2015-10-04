@@ -1,0 +1,6 @@
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler003\ProjectEuler003\bin\Debug\ProjectEuler003.exe.config
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler003\ProjectEuler003\bin\Debug\ProjectEuler003.exe
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler003\ProjectEuler003\bin\Debug\ProjectEuler003.pdb
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler003\ProjectEuler003\obj\Debug\ProjectEuler003.csprojResolveAssemblyReference.cache
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler003\ProjectEuler003\obj\Debug\ProjectEuler003.exe
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler003\ProjectEuler003\obj\Debug\ProjectEuler003.pdb
