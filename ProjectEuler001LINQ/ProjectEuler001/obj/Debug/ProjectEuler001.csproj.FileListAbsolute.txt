@@ -1,0 +1,15 @@
+C:\Users\DMPPRIVATE\Programming Projects\C-Sharp\ProjectEuler001\ProjectEuler001\bin\Debug\ProjectEuler001.exe.config
+C:\Users\DMPPRIVATE\Programming Projects\C-Sharp\ProjectEuler001\ProjectEuler001\bin\Debug\ProjectEuler001.exe
+C:\Users\DMPPRIVATE\Programming Projects\C-Sharp\ProjectEuler001\ProjectEuler001\bin\Debug\ProjectEuler001.pdb
+C:\Users\DMPPRIVATE\Programming Projects\C-Sharp\ProjectEuler001\ProjectEuler001\obj\Debug\ProjectEuler001.csprojResolveAssemblyReference.cache
+C:\Users\DMPPRIVATE\Programming Projects\C-Sharp\ProjectEuler001\ProjectEuler001\obj\Debug\ProjectEuler001.exe
+C:\Users\DMPPRIVATE\Programming Projects\C-Sharp\ProjectEuler001\ProjectEuler001\obj\Debug\ProjectEuler001.pdb
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler001\ProjectEuler001\bin\Debug\ProjectEuler001.exe.config
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler001\ProjectEuler001\obj\Debug\ProjectEuler001.exe
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler001\ProjectEuler001\obj\Debug\ProjectEuler001.pdb
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler001LINQ\ProjectEuler001\bin\Debug\ProjectEuler001.exe.config
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler001LINQ\ProjectEuler001\obj\Debug\ProjectEuler001.exe
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler001LINQ\ProjectEuler001\obj\Debug\ProjectEuler001.pdb
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler001LINQ\ProjectEuler001\bin\Debug\ProjectEuler001.exe
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler001LINQ\ProjectEuler001\bin\Debug\ProjectEuler001.pdb
+C:\Users\DMPPRIVATE\Development\C-Sharp\ProjectEuler001LINQ\ProjectEuler001\obj\Debug\ProjectEuler001.csprojResolveAssemblyReference.cache
