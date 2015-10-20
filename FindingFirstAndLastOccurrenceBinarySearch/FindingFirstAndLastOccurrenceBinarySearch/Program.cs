@@ -18,20 +18,14 @@ namespace FindingFirstAndLastOccurrenceBinarySearch
             Console.ReadLine();
         }
 
-        /**
-         * Determines the first or last occurence (not the first found) in a given sorted integer array.
-         * 
-         * PRE:     a sorted array of type int has been defined. The size of the array n, and the
-         *          number to be searched for, x, has been defined
-         * POST:    If the number exists, returns the index of the first or last occurrence of x in the array.
-         * 
-         * @param   a       int[]           a sorted integer array.
-         * @param   n       int             the size of the integer array.
-         * @param   x       int             the number of the integer value to search for.
-         * @param   first   bool            bool stating if we're looking for first or last occurrence
-         *                                  first == true, last == false.
-         * @return  result  int             index of the first or last occurrence.
-         **/
+        /// <summary>
+        /// Determines the first or last occurence (not the first found) in a given sorted integer array.
+        /// </summary>
+        /// <param name="a">a: int[] (an array of type integer)</param>
+        /// <param name="n">n: int (the size of the array)</param>
+        /// <param name="x">x: int (the number to be searched for)</param>
+        /// <param name="first">first: bool (indicating if it needs to search for first or last occurence)</param>
+        /// <returns>int (the index of the first or last occurence)</returns>
         private static int BinarySearch(int[] a, int n, int x, bool first)
         {
             int low = 0,                    // lower limit of the binary search in terms of index.

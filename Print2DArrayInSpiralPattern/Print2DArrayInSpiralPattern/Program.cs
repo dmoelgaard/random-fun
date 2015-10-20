@@ -16,25 +16,19 @@ namespace Print2DArrayInSpiralPattern
                                         { 9, 10, 11, 12 },
                                         { 13, 14, 15, 16 } };
 
-            Print2DArrayIfElse(array, 4, 4);
+            Print2DArray(array, 4, 4);
             Console.ReadLine();
         }
 
-        /**
-         * Prints a given 2D Array in a spiral pattern starting top left and moving clockwise.
-         * 
-         * PRE:     a 2D array of type int has been defined. Number of rows m, and number of columns
-         *          n has been defined.
-         * POST:    The integer values contained in the 2D Array has been printed to the console.
-         * 
-         * @param   a       int[ , ]        a 2D integer array.
-         * @param   m       int             the number of rows in the given array.
-         * @param   n       int             the number of columns in the given array.
-         * @return          void
-         **/
-        private static void Print2DArrayIfElse(int[,] a, int m, int n)
+        /// <summary>
+        /// Prints a given 2D integer array in spiral form.
+        /// </summary>
+        /// <param name="a">a: int[ , ] (a 2D array of type integer)</param>
+        /// <param name="m">m: int (the number of rows in the given array)</param>
+        /// <param name="n">n: int (the number of columns in the given array)</param>
+        /// <returns>void</returns>
+        private static void Print2DArray(int[,] a, int m, int n)
         {
-
             int TR = 0;                     // Set the top row as 0.
             int BR = m - 1;                 // Set the bottom row as the number of rows minus 1.
             int LC = 0;                     // Set the left-most column as 0.

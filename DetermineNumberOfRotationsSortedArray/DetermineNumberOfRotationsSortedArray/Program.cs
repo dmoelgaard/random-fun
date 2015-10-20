@@ -25,33 +25,56 @@ namespace DetermineNumberOfRotationsSortedArray
 
         }
 
+        /// <summary>
+        /// Determines the number of rotations a sorted array has gone through. Assumes no duplicates in the array.
+        /// </summary>
+        /// <param name="a">a: int[] (an array of type integer)</param>
+        /// <param name="n">n: int (the size of the array)</param>
+        /// <returns>int (the number of circular rotations the array has gone through)</returns>
         private static int DetermineNumberOfRotations(int[] a, int n)
         {
             int low = 0,
                 high = n - 1,
                 mid = 0,
-                next = 0,
-                previous = 0;
+                next = 0,               // the index of the element to the right of mid
+                previous = 0;           // the index of the element to the left of mid
 
             while (low <= high)
             {
+                // case 1: the element at the lowest index is less than the element
+                //         at the highest index. This is only possible if the remaining
+                //         search space is already sorted, thus the result is the index
+                //         of low.
                 if (a[low] <= a[high])
                 {
                     return low;
                 }
 
+                // If case 1 is not true, we calculate the middle index and check
+                // if mid is in fact a pivot element (the lowest element is sorrounded
+                // by two elements greater than it).
                 mid = (low + high) / 2;
+                // In case mid is the last index, we use mod to get to the first index.
                 next = (mid + 1) % n;
+                // To avoid negative numbers, we add and mod n.
                 previous = (mid + n - 1) % n;
 
+                // case 2: If the element at mid is sorrounded by two elements greater
+                //         than it, we have thus determined the result.
                 if (a[mid] <= a[next] && a[previous] >= a[mid]) 
                 {
                     return mid;
                 }
+                // case 3: If the element at mid is less than or equal to the element
+                //         at high, the whole segment is sorted, and we must search
+                //         for the lowest element in the left side of the search space.
                 else if (a[mid] <= a[high])
                 {
                     high = mid - 1;
                 }
+                // case 4: If the element at mid is bigger than or equal to the element
+                //         at low, the whole segment is sorted, and we must search
+                //         for the lowest element in the right side of the search space.
                 else if (a[mid] >= a[low])
                 {
                     low = mid + 1;
