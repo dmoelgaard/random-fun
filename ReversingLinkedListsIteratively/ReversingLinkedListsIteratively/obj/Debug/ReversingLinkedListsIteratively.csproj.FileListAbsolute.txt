@@ -1,5 +1,0 @@
-c:\users\dmpprivate\Development\C-Sharp\ReversingLinkedListsIteratively\ReversingLinkedListsIteratively\bin\Debug\ReversingLinkedListsIteratively.exe.config
-c:\users\dmpprivate\Development\C-Sharp\ReversingLinkedListsIteratively\ReversingLinkedListsIteratively\bin\Debug\ReversingLinkedListsIteratively.exe
-c:\users\dmpprivate\Development\C-Sharp\ReversingLinkedListsIteratively\ReversingLinkedListsIteratively\bin\Debug\ReversingLinkedListsIteratively.pdb
-c:\users\dmpprivate\Development\C-Sharp\ReversingLinkedListsIteratively\ReversingLinkedListsIteratively\obj\Debug\ReversingLinkedListsIteratively.exe
-c:\users\dmpprivate\Development\C-Sharp\ReversingLinkedListsIteratively\ReversingLinkedListsIteratively\obj\Debug\ReversingLinkedListsIteratively.pdb
