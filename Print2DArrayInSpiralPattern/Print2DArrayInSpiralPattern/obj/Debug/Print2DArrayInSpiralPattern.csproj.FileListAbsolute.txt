@@ -1,6 +1,0 @@
-c:\users\dmpprivate\Development\C-Sharp\Print2DArrayInSpiralPattern\Print2DArrayInSpiralPattern\bin\Debug\Print2DArrayInSpiralPattern.exe.config
-c:\users\dmpprivate\Development\C-Sharp\Print2DArrayInSpiralPattern\Print2DArrayInSpiralPattern\bin\Debug\Print2DArrayInSpiralPattern.exe
-c:\users\dmpprivate\Development\C-Sharp\Print2DArrayInSpiralPattern\Print2DArrayInSpiralPattern\bin\Debug\Print2DArrayInSpiralPattern.pdb
-c:\users\dmpprivate\Development\C-Sharp\Print2DArrayInSpiralPattern\Print2DArrayInSpiralPattern\obj\Debug\Print2DArrayInSpiralPattern.csprojResolveAssemblyReference.cache
-c:\users\dmpprivate\Development\C-Sharp\Print2DArrayInSpiralPattern\Print2DArrayInSpiralPattern\obj\Debug\Print2DArrayInSpiralPattern.exe
-c:\users\dmpprivate\Development\C-Sharp\Print2DArrayInSpiralPattern\Print2DArrayInSpiralPattern\obj\Debug\Print2DArrayInSpiralPattern.pdb
